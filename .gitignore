@@ -52,3 +52,4 @@ firestore_export/
 functions/node_modules/
 firebase-debug.log
 .firebase/
+firebase.js
